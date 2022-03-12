@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://rechtbank.org/posts/oorlog/</loc>
-    <lastmod>2022-03-11T21:17:52+01:00</lastmod>
-  </url><url>
-    <loc>http://rechtbank.org/posts/</loc>
-    <lastmod>2022-03-11T21:17:52+01:00</lastmod>
-  </url><url>
-    <loc>http://rechtbank.org/</loc>
-    <lastmod>2022-03-11T21:17:52+01:00</lastmod>
-  </url><url>
-    <loc>http://rechtbank.org/categories/</loc>
-  </url><url>
-    <loc>http://rechtbank.org/tags/</loc>
-  </url>
-</urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
